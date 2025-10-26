@@ -1,8 +1,8 @@
 # Hi there 👋! I'm JoJo!
 ## ❓About Me
 I own the owner of Arctic Claw Official. It is a game development organization that was created to inspire the future generation as well as build great products.
-I am a graphic designer/builder. I work with the languages HTML and JavaScript.
-You may reach me with my business email: **xxjojoplayz2xx@arcticclawofficial.com**
+> I am a graphic designer/builder. I work with the languages HTML and JavaScript.
+> You may reach me with my business email: **xxjojoplayz2xx@arcticclawofficial.com**
 
 ##
 <!--
