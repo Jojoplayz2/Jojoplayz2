@@ -7,5 +7,5 @@ I am the owner of Arctic Claw Official. It is a game development organization th
 > You may reach me with my business email: **xxjojoplayz2xx@arcticclawofficial.com**
 
 ## 📊 My Stats
-![Jojoplayz2's Stats](https://github-readme-stats.vercel.app/api?username=Jojoplayz2&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
-![Jojoplayz2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jojoplayz2&theme=gruvbox&hide_border=false)
+![Jojoplayz2's Stats](https://github-readme-stats.vercel.app/api?username=Jojoplayz2&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
+![Jojoplayz2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jojoplayz2&theme=midnight-purple&hide_border=false)
