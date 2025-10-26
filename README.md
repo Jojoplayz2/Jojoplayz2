@@ -9,3 +9,6 @@ I am the owner of Arctic Claw Official. It is a game development organization th
 ## 📊 My Stats
 ![Jojoplayz2's Stats](https://github-readme-stats.vercel.app/api?username=Jojoplayz2&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true)
 ![Jojoplayz2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jojoplayz2&theme=midnight-purple&hide_border=false)
+
+## 🍀 GitRoll Stats
+<a href="https://gitroll.io/profile/uQAPbIsL88qQEgPbrI5ITBlrJefM2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQAPbIsL88qQEgPbrI5ITBlrJefM2?theme=retro" alt="GitRoll Profile Badge"/></a>
