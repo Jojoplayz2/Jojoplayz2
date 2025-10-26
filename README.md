@@ -1,21 +1,11 @@
 # Hi there 👋! I'm JoJo!
 ## ❓About Me
-I own the owner of Arctic Claw Official. It is a game development organization that was created to inspire the future generation as well as build great products.
+I own the owner of Arctic Claw Official. It is a game development organization that was created to inspire the future generation as well as build great products. Also, I am a new development learner which takes me time to complete projects, still learning though 😄
+> As well, I do create Discord Servers and GitHub Respositories for users.
+
 > I am a graphic designer/builder. I work with the languages HTML and JavaScript.
 > You may reach me with my business email: **xxjojoplayz2xx@arcticclawofficial.com**
 
-##
-<!--
-**Jojoplayz2/Jojoplayz2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My Stats
+![Jojoplayz2's Stats](https://github-readme-stats.vercel.app/api?username=Jojoplayz2&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
+![Jojoplayz2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jojoplayz2&theme=gruvbox&hide_border=false)
