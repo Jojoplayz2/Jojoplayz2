@@ -1,6 +1,6 @@
 # Hi there 👋! I'm JoJo!
 ## ❓About Me
-I own the owner of Arctic Claw Official. It is a game development organization that was created to inspire the future generation as well as build great products. Also, I am a new development learner which takes me time to complete projects, still learning though 😄
+I am the owner of Arctic Claw Official. It is a game development organization that was created to inspire the future generation as well as build great products. Also, I am a new development learner which takes me time to complete projects, still learning though 😄
 > As well, I do create Discord Servers and GitHub Respositories for users.
 
 > I am a graphic designer/builder. I work with the languages HTML and JavaScript.
