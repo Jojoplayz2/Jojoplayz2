@@ -13,10 +13,5 @@ I am the owner of Arctic Claw Official. It is a game development organization th
 ![Jojoplayz2's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jojoplayz2&theme=midnight-purple&hide_border=false)<br><br>
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jojoplayz2&layout=compact&theme=midnight-purple&hide_border=false)
 
-## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/Jojoplayz2=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-## 📦 Top Contributed Repo
-![Top Contributed Repo](https://github-contrib-stats.vercel.app/api?username=Jojoplayz2)
-
 ## 🍀 GitRoll Stats
 <a href="https://gitroll.io/profile/uQAPbIsL88qQEgPbrI5ITBlrJefM2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQAPbIsL88qQEgPbrI5ITBlrJefM2?theme=retro" alt="GitRoll Profile Badge"/></a>
