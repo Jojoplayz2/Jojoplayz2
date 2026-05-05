@@ -1,4 +1,4 @@
-# Hi there 👋! I'm JoJo!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F30F7&width=435&lines=Hi+there+%F0%9F%91%8B+I%E2%80%99m+JoJo!;Also+known+as+Xxjojoplayz2xX!)](https://git.io/typing-svg)
 ## ❓About Me
 I am the owner of Arctic Claw Official. It is a game development organization that was created to inspire the future generation as well as build great products. Also, I am a new development learner which takes me time to complete projects, still learning though 😄 I am also the owner of The Outreach, which is a community hub for sponsored partnerships.
 > As well, I do create Discord Servers and GitHub Respositories for users.
